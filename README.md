@@ -19,5 +19,5 @@ The game map supports any transformations at the user's discretion and counts po
 <h2 align="center">Leaderboard is shown onwards</h2>
 
 <div align="center">
-  <img height=100% width=100% src="https://github.com/HeapGeap/Discription/blob/main/leaderboard.png"  />
+  <img height=100% width=100% src="https://github.com/HeapGeap/Pacman/blob/main/assetsGit/leaderboard.png"  />
 </div>
