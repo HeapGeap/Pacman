@@ -21,3 +21,8 @@ The game map supports any transformations at the user's discretion and counts po
 <div align="center">
   <img height=100% width=100% src="https://github.com/HeapGeap/Pacman/blob/main/assetsGit/leaderboard.png"  />
 </div>
+
+###
+
+<h2 align="center">Getting Start</h2>
+Necessary environment : Visual Studio Code with Live Server plugin. <br> After unzipping project open leaderboard with server and click "Play" button.
